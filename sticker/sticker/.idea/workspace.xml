@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a24aabec-2b30-48cc-8f03-a7ea5ab18af2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../panoslicepro/src/main/res/drawable/ic_check_white_24px.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/java/com/panoslice/panoslicepro/ui/canvas/core/ImageHomeSliderFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/java/com/panoslice/panoslicepro/ui/canvas/core/ImageHomeSliderFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/java/com/panoslice/panoslicepro/ui/canvas/sticker/richpath/RichPathDrawable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/java/com/panoslice/panoslicepro/ui/canvas/sticker/richpath/RichPathDrawable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/res/drawable/ic_group_701.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/res/drawable/ic_group_701.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/res/drawable/ic_group_723.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/res/drawable/ic_group_723.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/res/layout/fragment_sticker_editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/res/layout/fragment_sticker_editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../panoslicepro/src/main/res/layout/opacity_seekbar_layout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../panoslicepro/src/main/res/layout/opacity_seekbar_layout.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lRt5YmTWq1j79zviTC9K7Mlpee" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a24aabec-2b30-48cc-8f03-a7ea5ab18af2" name="Default Changelist" comment="" />
+      <created>1607571548416</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607571548416</updated>
+    </task>
+    <servers />
+  </component>
+</project>

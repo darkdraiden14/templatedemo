@@ -1,0 +1,2 @@
+rootProject.name='templatedemo'
+include ':app', ':sticker'
